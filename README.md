@@ -1,1 +1,1 @@
-# ASUOG
+# ASUOG adb fastboot
